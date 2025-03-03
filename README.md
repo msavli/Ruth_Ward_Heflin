@@ -4,7 +4,7 @@ Ruth Ward Heflin (1940-2000) je bila pomembna osebnost v karizmatičnem krščan
 Heflinova je bila znana po svojem strastnem slavljenju in shodih za prebujenje, ki so privabljali ljudi z vsega sveta in iz vseh krščanskih denominacij. Napisala je več knjig in sestavila številne slavilne pesmi, ki se še vedno pojejo po vsem svetu.
 
 Njene tri najbolj znane knjige so že prevedene v slovenščino in so v postopku končnega pregledovanja:
-- Slava: Doživljanje vzdušja nebes (Glory: Experiencing the Atmosphere of Heaven)
+- [Slava: Doživljanje vzdušja nebes](Ruth_Ward_Heflin__Slava.pdf) (Glory: Experiencing the Atmosphere of Heaven)
 - Reka slave (River Glory)
 - Slava prebujenja (Revelation Glory)
 
